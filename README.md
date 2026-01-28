@@ -17,13 +17,6 @@ No clicking. No manual deletion. Just **one command = clean server**.
 ✅ Fast & rate-limit safe  
 ✅ Open-source & customizable  
 
----
-
-## 📸 Preview
-
-![Preview](assets/preview.png)
-
-*(Add your screenshot here)*
 
 ---
 
